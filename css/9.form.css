@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+fieldset{
+    width: 70%;
+    margin: auto;
+}
+
+div.form-group{
+    border-bottom: 2px solid green;
+    padding: 10px;
+}
+
+div.form-group input{
+    width: 80%;
+}
+
+div.form-group label{
+    width: 100px;
+    display: inline-block;
+}
